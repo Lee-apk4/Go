@@ -43,11 +43,13 @@ Tableau 001
         <th>Nom</th>
         <th>Prenom</th> 
         <th>Classe</th>
-        <th>Numéro</th>
+        <th>Note</th>
 	 </tr>
 	  <tr>
         <td>John</td>
-        <td>30</td>
+        <td>30</td> 
+        <td>Terminal</td>
+        <td>10</td>
 	  </tr>
 	  <tr>
         <td>Jane</td>

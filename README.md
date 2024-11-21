@@ -1,11 +1,11 @@
 # INTRODUCTION 
 Chapitre 1<a href="https://www.example.com">Cliquez ici pour visiter</a>
 
-Chapitre 2
+Chapitre 2<a href="https://www.example.com">Cliquez ici pour visiter</a>
 
-Chapitre 3
+Chapitre 3<a href="https://www.example.com">Cliquez ici pour visiter</a>
 
-Chapitre 4
+Chapitre 4<a href="https://www.example.com">Cliquez ici pour visiter</a>
 
 # MATERIELS
 

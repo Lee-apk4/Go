@@ -59,6 +59,20 @@ Tableau 001	👍<table border="2">
 	</table>
 
 002
+	<table border="2">
+	  <tr>
+        <th>Nom</th>
+        <th>Âge</th>
+	  </tr>
+	  <tr>
+        <td>John</td>
+        <td>30</td>
+	  </tr>
+	  <tr>
+        <td>Jane</td>
+        <td>25</td>
+	  </tr>
+	</table>
 
 003
 

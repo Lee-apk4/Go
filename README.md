@@ -46,14 +46,16 @@ Tableau 001
         <th>Note</th>
 	 </tr>
 	  <tr>
-        <td>John</td>
-        <td>30</td> 
+        <td>Rb</td>
+        <td>John</td> 
         <td>Terminal</td>
         <td>10</td>
 	  </tr>
 	  <tr>
+        <td>Rb</td>
         <td>Jane</td>
-        <td>25</td>
+        <td>Terminal</td>
+        <td>10</td>
 	  </tr>
 	</table>
 

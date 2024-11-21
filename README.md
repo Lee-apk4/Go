@@ -37,7 +37,7 @@ Chapitre 5 ~<a href="https://www.example.com">Cliquez ici pour visiter</a>
 
 # LISTE
 
-Tableau 001	<table border="2">
+Tableau 001	👍<table border="2">
 	  <tr>
         <th>Nom</th>
         <th>Prenom</th> 

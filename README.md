@@ -43,7 +43,7 @@ Tableau 001
         <th>Nom</th>
         <th>Prenom</th> 
         <th>Classe</th>
-        <th>Note</th>
+        <th>Note/20</th>
 	 </tr>
 	  <tr>
         <td>Rb</td>

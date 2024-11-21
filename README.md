@@ -1,6 +1,6 @@
 # INTRODUCTION 
 # TITRE
-Chapitre 1 <a href="https://www.example.com">Cliquez ici pour visiter</a>
+Chapitre 1~ <a href="https://www.example.com">Cliquez ici pour visiter</a>
 <ul>
 	  <li>Élément 1</li>
 	  <li>Élément 2</li>

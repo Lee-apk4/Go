@@ -44,8 +44,7 @@ Tableau 001
         <th>Prenom</th> 
         <th>Classe</th>
         <th>Numéro</th>
-
-	  </tr>
+	 </tr>
 	  <tr>
         <td>John</td>
         <td>30</td>

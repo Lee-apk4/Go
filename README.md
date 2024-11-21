@@ -41,7 +41,10 @@ Tableau 001
 	<table border="2">
 	  <tr>
         <th>Nom</th>
-        <th>Âge</th>
+        <th>Prenom</th> 
+        <th>Classe</th>
+        <th>Numéro</th>
+
 	  </tr>
 	  <tr>
         <td>John</td>

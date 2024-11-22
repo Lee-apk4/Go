@@ -54,9 +54,12 @@ Teste 1
 > Texte 2
 Texte 3
 
-<style>Color
+<style>
+head {
 The background color Is #ffffff
-For light mode #000000</style>
+For light mode #000000;
+}
+</style>
 
 
 # CONCLUSION

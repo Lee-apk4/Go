@@ -50,8 +50,7 @@ Styling text
 
 <style>
 u1 {
-The background color Is #ffffff
-For light mode #000000;
+background-color:#ffffff;
 }
 </style>
 

@@ -127,13 +127,13 @@ You[^22].
 ## Rendered Alerts
 >[!NOTE]
 >Useful information that users should know, even when skimming content .
-> [ ! TIP]
+>[!TIP]
 >Helpful advice for doing things better or more easily.
-> [ ! IMPORTANT]
+>[!IMPORTANT]
 >Key information users need to know to achiieve their goal.
-> [ ! WARNING]
+>[!WARNING]
 >Urgent info that needs immédiate user attention to avoid problèms.
-> [ ! CAUTION]
+>[!CAUTION]
 >Advises about risks or négative outcomes of certain actions.
 
 

@@ -125,7 +125,7 @@ You[^22].
 [^22]: Go to. This Is a line footnote.
 
 ## Rendered Alerts
-> [ ! NOTE]
+>[!NOTE]
 >Useful information that users should know, even when skimming content .
 > [ ! TIP]
 >Helpful advice for doing things better or more easily.

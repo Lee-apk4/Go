@@ -36,58 +36,24 @@ Chapitre 5 ~<a href="https://www.example.com">Cliquez ici pour visiter</a>
 	</ul>
 
 # LISTE
+# BIENVENUE SUR LE SITE WEB
+## FIRST
+### Leson 
+       Styling text
+**Bold** ou _Italic_
+~~Strikethrough~~
+**Bold_and_Italic**
+***All texte to bold and italic***
+<sub>subscrip</sub>
+<sup>superscr</sup>
+<Ins>underline</ins>
 
-Tableau 001	<table border="1">
-	  <tr>
-        <th>Nom</th>
-        <th>Prenom</th> 
-        <th>Classe</th>
-        <th>Note/20</th>
-	 </tr>
-	  <tr>
-        <td>Rb</td>
-        <td>John</td> 
-        <td>Terminal</td>
-        <td>10</td>
-	  </tr>
-	  <tr>
-        <td>Rb</td>
-        <td>Jane</td>
-        <td>Terminal</td>
-        <td>10</td>
-	  </tr>
-	</table>
+       Quoting text 
+Teste 1
+> Texte 2
+     Color
+The background color Is #ffffff
+For light mode #000000
 
-002
-	<table border="1">
-	  <tr>
-        <th>Nom</th>
-        <th>Âge</th>
-	  </tr>
-	  <tr>
-        <td>John</td>
-        <td>30</td>
-	  </tr>
-	  <tr>
-        <td>Jane</td>
-        <td>25</td>
-	  </tr>
-	</table>
-
-003
-
-004
-
-005
-
-006
-
-007
-
-008
-
-009
-
-010
 
 # CONCLUSION

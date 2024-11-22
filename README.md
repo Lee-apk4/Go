@@ -54,9 +54,9 @@ Teste 1
 > Texte 2
 Texte 3
 
-Color
+<style>Color
 The background color Is #ffffff
-For light mode #000000
+For light mode #000000</style>
 
 
 # CONCLUSION

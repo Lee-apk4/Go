@@ -48,10 +48,11 @@ Styling text
 <sup>superscr</sup><br>
 <Ins>underline</ins>
 
-       Quoting text 
+Quoting text 
 Teste 1
 > Texte 2
-     Color
+
+Color
 The background color Is #ffffff
 For light mode #000000
 

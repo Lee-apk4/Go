@@ -41,11 +41,11 @@ Chapitre 5 ~<a href="https://www.example.com">Cliquez ici pour visiter</a>
 ### Leson 
        Styling text
 **Bold** ou _Italic_<br>
-~~Strikethrough~~
-**Bold_and_Italic**
-***All texte to bold and italic***
-<sub>subscrip</sub>
-<sup>superscr</sup>
+~~Strikethrough~~<br>
+**Bold_and_Italic**<br>
+***All texte to bold and italic***<br>
+<sub>subscrip</sub><br>
+<sup>superscr</sup><br>
 <Ins>underline</ins>
 
        Quoting text 

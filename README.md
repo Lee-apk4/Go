@@ -48,12 +48,6 @@ Styling text
 <sup>superscr</sup><br>
 <Ins>underline</ins>
 
-Quoting text 
-
-Teste 1
-> Texte 2
-Texte 3
-
 <style>
 u1 {
 The background color Is #ffffff

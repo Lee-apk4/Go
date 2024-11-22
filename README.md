@@ -113,6 +113,12 @@ Srcset="https ://user-image.githubusercontent.com/25423296/163456779-a8556205-d0
 	-	[ ]  https ://github.com/octo-org/octo-repo/issues/740
 	-	[ ]  Add delight to the expérience when all tasks are complete : tada:
 
+# Mentioning people
+@github/support what do you think about these update?
+# Using emojie
+@octocat :+1: This PR looks great  - it's ready to merge ! :shipit:
+
+
 
 
 

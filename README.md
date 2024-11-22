@@ -83,4 +83,14 @@ Some text i want.
 (...more content...)
 [A link to custom] (#My-anchor-name)
 
+# Specifying 
+      <picture>
+<source media="(prefers-color-scheme: dark)" 
+srcset="https ://user-image.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+<source media="(prefers-color-scheme: light)"
+Srcset="https ://user-image.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17--42d089e3c3f8.png">
+<Image alt="shows an illustrated Sun in light mode and a moon with stars in dark mode." src="https ://user-image.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+                </picture>
+
+
 

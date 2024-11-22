@@ -119,10 +119,12 @@ Srcset="https ://user-image.githubusercontent.com/25423296/163456779-a8556205-d0
 @octocat :+1: This PR looks great  - it's ready to merge ! :shipit:
 
 # Footnote
-Here[^11].
-You[^22].
-[^11]: My référence.
-[^22]: Go to. This Is a line footnote.
+Here[^1].
+You[^2].
+[^1]: My référence.
+[^2]: Go to. 
+This Is a line footnote.
+
 
 ## Rendered Alerts
 >[!NOTE]

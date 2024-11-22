@@ -67,6 +67,4 @@ Styling text
        Quoting text 
 Teste 1
 > Texte 2
-     Color
-The background color Is #ffffff
-For light mode #000000
+

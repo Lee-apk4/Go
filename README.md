@@ -39,8 +39,8 @@ Chapitre 5 ~<a href="https://www.example.com">Cliquez ici pour visiter</a>
 # BIENVENUE SUR LE SITE WEB
 ## FIRST
 ### Leson 
-       Styling text
-**Bold** ou _Italic_<br>
+       Styling text<br>
+**Bold** ou _Italic_
 ~~Strikethrough~~
 **Bold_and_Italic**
 ***All texte to bold and italic***

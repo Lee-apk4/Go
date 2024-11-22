@@ -48,11 +48,7 @@ Styling text
 <sup>superscr</sup><br>
 <Ins>underline</ins>
 
-<style>
-u1 {
-background-color:#ffffff;
-}
-</style>
+
 
 
 # CONCLUSION

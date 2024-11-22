@@ -124,7 +124,7 @@ You[^22].
 [^11]: My référence.
 [^22]: Go to. This Is a line footnote.
 
-# Rendered Alerts
+## Rendered Alerts
 >[ ! NOTE]
 >Useful information that users should know, even when skimming content .
 >[ ! TIP]

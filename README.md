@@ -55,7 +55,7 @@ Teste 1
 Texte 3
 
 <style>
-head {
+u1 {
 The background color Is #ffffff
 For light mode #000000;
 }

@@ -52,6 +52,7 @@ Quoting text
 
 Teste 1
 > Texte 2
+> Texte 3
 
 Color
 The background color Is #ffffff

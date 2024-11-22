@@ -77,3 +77,10 @@ Texte
 Link secteur :[link] (#One-lien).
 Link secteur :[link] ((#two-lien-go).
 
+# exemple 
+<a name="My -anchor-name"></a>
+Some text i want.
+(...more content...)
+[A link to custom] (#My-anchor-name)
+
+

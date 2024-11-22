@@ -40,7 +40,7 @@ Chapitre 5 ~<a href="https://www.example.com">Cliquez ici pour visiter</a>
 ## FIRST
 ### Leson 
        Styling text
-**Bold** ou _Italic_
+**Bold** ou _Italic_<br>
 ~~Strikethrough~~
 **Bold_and_Italic**
 ***All texte to bold and italic***

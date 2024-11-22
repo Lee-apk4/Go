@@ -118,6 +118,13 @@ Srcset="https ://user-image.githubusercontent.com/25423296/163456779-a8556205-d0
 # Using emojie
 @octocat :+1: This PR looks great  - it's ready to merge ! :shipit:
 
+# Footnote
+Here[^11].
+You[^22].
+[^11]: My référence.
+[^22]: Go to. This Is a line footnote.
+
+
 
 
 
